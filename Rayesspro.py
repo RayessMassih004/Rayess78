@@ -97,14 +97,13 @@ class Main:
 		os.system("clear")
 		
 		print ("""
-		       ____
+                ____
                |  _ \ __ _ _   _  ___  ___ ___
                | |_) / _` | | | |/ _ \/ __/ __|
                |  _ < (_| | |_| |  __/\__ \__ \
                |_| \_\__,_|\__, |\___||___/___/
-                              |___/    *MassihHack*
-          
-          --------------------------------------------------
+                            |___/    *MassihHack*
+ --------------------------------------------------
 ✿ I Love you just Allah ✿
 ✿ Best Teach 004 ✿
 ✿ my best friend Horyan and Sunil ✿
@@ -113,12 +112,7 @@ class Main:
 ✿ This Tool Is Free But Update this version has Cast ✿
 --------------------------------------------------""")
 
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█  Github: https://github.com/RayeesMassih004
-█  Telegram : RayessMassih004
-█  Modifier:  Rayees Massih
-█  Tools :  Massih-pro
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█""")
+""")
 		print("%s [%s•%s] %sTOOL NAME : %sSuper Speed Uid Cloning"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s9.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
